@@ -15,7 +15,7 @@
 > Links
 
 - [Jinja Datta Able Dark PRO](https://appseed.us/jinja-template/jinja-datta-able-dark-pro) - Product page
-- [Jinja Datta Able Dark PRO - Demo](https://jinja-datta-able-dark-pro.appseed.us/) - LIVE Demo
+- [Jinja Datta Able Dark - Demo](https://jinja-datta-able-dark-pro.appseed-srv1.com/) - LIVE Demo
 - [Jinja Datta Able Dark PRO - Docs](https://docs.appseed.us/jinja-template/jinja-datta-able-dark-pro/) - Product documentation
 
 <br />
